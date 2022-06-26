@@ -1,0 +1,11 @@
+module.exports=[
+    {
+        id:1,name:'Conference'
+    },
+    {
+        id:2,name:'Exhibition'
+    },
+    {
+        id:3,name:'Summit'
+    }
+]
